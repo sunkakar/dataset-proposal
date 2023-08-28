@@ -21,5 +21,5 @@
   
 ## Student Note: 
 Hi Professor, I looked through the provided built-in datasets in R and found them to be small in size. I would like to work with an intermediate to advanced-level dataset (~100K rows) since 
-I have a background in Computer Science and R. I would prefer the Olympics dataset and indifferent about the Art History dataset. Thus, I am very open to working with a dataset of your suggestion.
+I have a background in Computer Science and R. I would prefer the Olympics dataset and indifferent about the Art History dataset. Thus, I am very open to working with a new dataset of your suggestion.
 Thanks!
